@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aswinpradeepgit
-- 👀 I’m interested in Machine learning and Artificial intelligence 
-- 🌱 I’m currently learning Deep learning
+- 👀 I’m interested in Backend web develeopment using python. 
+- 🌱 I’m currently learning Advanced coding concepts.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
