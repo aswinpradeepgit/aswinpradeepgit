@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aswinpradeepgit
-- 👀 I build cool AI products that you can use to Improve your business
-- 🌱 I’m currently learning Advanced coding concepts in python
-- 💞️ I’m looking to collaborate on generative Ai ready-to-use products.
+
 - 📫 reach out to me at www.aswinpradeep.com
 
 <!---
