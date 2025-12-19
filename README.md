@@ -2,7 +2,7 @@
 
 - 📫 reach out to me at aswinpradeep15@gmail.com
 
-- Checkout my portfolio at www.aswinpradeep.com
+- Checkout my portfolio at www.aswinpradeep.xyz
 
 <!---
 aswinpradeepgit/aswinpradeepgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
